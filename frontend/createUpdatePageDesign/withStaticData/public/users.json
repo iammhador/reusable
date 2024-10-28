@@ -1,0 +1,227 @@
+[
+  {
+    "id": 1,
+    "fullname": "John Doe",
+    "email": "john.doe@example.com",
+    "status": "Active",
+    "description": "A software developer with 5 years of experience in full-stack development.",
+    "address": "1234 Elm St, Springfield, IL",
+    "designation": "Senior Developer"
+  },
+  {
+    "id": 2,
+    "fullname": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "status": "Pending",
+    "description": "A frontend developer specialized in React and UI/UX design.",
+    "address": "5678 Oak St, Metropolis, NY",
+    "designation": "Frontend Developer"
+  },
+  {
+    "id": 3,
+    "fullname": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "status": "Active",
+    "description": "A cloud engineer with expertise in AWS and DevOps practices.",
+    "address": "9101 Maple St, Gotham, NJ",
+    "designation": "Cloud Engineer"
+  },
+  {
+    "id": 4,
+    "fullname": "Robert Brown",
+    "email": "robert.brown@example.com",
+    "status": "Inactive",
+    "description": "An experienced backend developer with a focus on Node.js and databases.",
+    "address": "3456 Pine St, Star City, TX",
+    "designation": "Backend Developer"
+  },
+  {
+    "id": 5,
+    "fullname": "Emily Davis",
+    "email": "emily.davis@example.com",
+    "status": "Active",
+    "description": "A project manager with a knack for agile methodologies and team leadership.",
+    "address": "7890 Cedar St, Central City, CA",
+    "designation": "Project Manager"
+  },
+  {
+    "id": 6,
+    "fullname": "Michael Wilson",
+    "email": "michael.wilson@example.com",
+    "status": "Pending",
+    "description": "A skilled data analyst with expertise in Python and R.",
+    "address": "1234 Birch St, Smallville, KS",
+    "designation": "Data Analyst"
+  },
+  {
+    "id": 7,
+    "fullname": "Sophia Martinez",
+    "email": "sophia.martinez@example.com",
+    "status": "Active",
+    "description": "A graphic designer with a passion for branding and visual storytelling.",
+    "address": "5678 Spruce St, Coast City, WA",
+    "designation": "Graphic Designer"
+  },
+  {
+    "id": 8,
+    "fullname": "William Anderson",
+    "email": "william.anderson@example.com",
+    "status": "Inactive",
+    "description": "An experienced DevOps engineer with expertise in CI/CD pipelines.",
+    "address": "9101 Fir St, National City, FL",
+    "designation": "DevOps Engineer"
+  },
+  {
+    "id": 9,
+    "fullname": "Olivia Thomas",
+    "email": "olivia.thomas@example.com",
+    "status": "Active",
+    "description": "A content writer skilled in SEO and digital marketing.",
+    "address": "3456 Redwood St, Keystone City, MA",
+    "designation": "Content Writer"
+  },
+  {
+    "id": 10,
+    "fullname": "James Rodriguez",
+    "email": "james.rodriguez@example.com",
+    "status": "Pending",
+    "description": "A cybersecurity specialist focused on network security.",
+    "address": "7890 Poplar St, Ivy Town, CO",
+    "designation": "Cybersecurity Specialist"
+  },
+  {
+    "id": 11,
+    "fullname": "Emma Gonzalez",
+    "email": "emma.gonzalez@example.com",
+    "status": "Inactive",
+    "description": "A business analyst with a background in finance and data analysis.",
+    "address": "2345 Cypress St, Riverdale, AZ",
+    "designation": "Business Analyst"
+  },
+  {
+    "id": 12,
+    "fullname": "David Hall",
+    "email": "david.hall@example.com",
+    "status": "Active",
+    "description": "A marketing strategist with expertise in brand development.",
+    "address": "6789 Willow St, Arcadia, PA",
+    "designation": "Marketing Strategist"
+  },
+  {
+    "id": 13,
+    "fullname": "Isabella Perez",
+    "email": "isabella.perez@example.com",
+    "status": "Pending",
+    "description": "An HR specialist with a focus on employee engagement and retention.",
+    "address": "9012 Alder St, Rosewood, NE",
+    "designation": "HR Specialist"
+  },
+  {
+    "id": 14,
+    "fullname": "Benjamin Young",
+    "email": "benjamin.young@example.com",
+    "status": "Inactive",
+    "description": "A UI/UX designer with a background in web and mobile applications.",
+    "address": "3457 Elmwood St, Pleasantville, NC",
+    "designation": "UI/UX Designer"
+  },
+  {
+    "id": 15,
+    "fullname": "Mia Hernandez",
+    "email": "mia.hernandez@example.com",
+    "status": "Active",
+    "description": "A social media manager specializing in content creation and analytics.",
+    "address": "7891 Juniper St, Middletown, TN",
+    "designation": "Social Media Manager"
+  },
+  {
+    "id": 16,
+    "fullname": "Alexander Lee",
+    "email": "alexander.lee@example.com",
+    "status": "Pending",
+    "description": "A customer service representative with a passion for client satisfaction.",
+    "address": "1234 Linden St, Branson, MO",
+    "designation": "Customer Service Rep"
+  },
+  {
+    "id": 17,
+    "fullname": "Ava Walker",
+    "email": "ava.walker@example.com",
+    "status": "Inactive",
+    "description": "An administrative assistant with strong organizational skills.",
+    "address": "5678 Dogwood St, Greenfield, IN",
+    "designation": "Admin Assistant"
+  },
+  {
+    "id": 18,
+    "fullname": "Logan King",
+    "email": "logan.king@example.com",
+    "status": "Active",
+    "description": "A financial advisor with expertise in personal finance and investments.",
+    "address": "9101 Mulberry St, Silver City, VA",
+    "designation": "Financial Advisor"
+  },
+  {
+    "id": 19,
+    "fullname": "Grace Scott",
+    "email": "grace.scott@example.com",
+    "status": "Pending",
+    "description": "A public relations specialist with experience in media relations.",
+    "address": "3456 Hazel St, Oakdale, VT",
+    "designation": "PR Specialist"
+  },
+  {
+    "id": 20,
+    "fullname": "Lucas Green",
+    "email": "lucas.green@example.com",
+    "status": "Inactive",
+    "description": "A logistics coordinator with experience in supply chain management.",
+    "address": "7890 Cedar St, Ashton, SC",
+    "designation": "Logistics Coordinator"
+  },
+  {
+    "id": 21,
+    "fullname": "Scarlett Edwards",
+    "email": "scarlett.edwards@example.com",
+    "status": "Active",
+    "description": "A web developer skilled in HTML, CSS, and JavaScript.",
+    "address": "1234 Chestnut St, Greenwood, RI",
+    "designation": "Web Developer"
+  },
+  {
+    "id": 22,
+    "fullname": "Daniel Clark",
+    "email": "daniel.clark@example.com",
+    "status": "Pending",
+    "description": "A mechanical engineer with a focus on design and manufacturing.",
+    "address": "5678 Sequoia St, Brighton, NH",
+    "designation": "Mechanical Engineer"
+  },
+  {
+    "id": 23,
+    "fullname": "Aria Lewis",
+    "email": "aria.lewis@example.com",
+    "status": "Inactive",
+    "description": "A medical assistant with a passion for patient care.",
+    "address": "9101 Redwood St, Sunnyvale, MT",
+    "designation": "Medical Assistant"
+  },
+  {
+    "id": 24,
+    "fullname": "Henry Robinson",
+    "email": "henry.robinson@example.com",
+    "status": "Active",
+    "description": "An event coordinator skilled in planning and organizing large events.",
+    "address": "3456 Maple St, Willow Creek, ND",
+    "designation": "Event Coordinator"
+  },
+  {
+    "id": 25,
+    "fullname": "Lily Harris",
+    "email": "lily.harris@example.com",
+    "status": "Pending",
+    "description": "A digital marketer with expertise in SEO and PPC campaigns.",
+    "address": "7890 Pine St, Brookfield, ME",
+    "designation": "Digital Marketer"
+  }
+]
