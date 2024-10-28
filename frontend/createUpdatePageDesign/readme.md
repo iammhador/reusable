@@ -12,45 +12,8 @@ Table with User Information: Displays a list of user details, including Full Nam
 Modal for Create and Update: A dynamic modal for adding and updating data entries, enhancing usability.
 📸 Project Screenshots
 User Table with Pagination
-<p align="center"> <img src="./screenshots/user-table-pagination.png" alt="User Table with Pagination" width="75%"> </p>
+<p align="center"> <img src="./designImage/Table With Infinity Scroll.png" alt="User Table with Pagination" width="75%"> </p>
 User Table with Infinite Scroll
-<p align="center"> <img src="./screenshots/user-table-infinite-scroll.png" alt="User Table with Infinite Scroll" width="75%"> </p>
+<p align="center"> <img src="./designImage/Table With Pagination And Sorting.png" alt="User Table with Infinite Scroll" width="75%"> </p>
 Add/Edit User Modal
-<p align="center"> <img src="./screenshots/user-modal.png" alt="Add/Edit User Modal" width="75%"> </p>
-🛠️ Installation
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-username/user-info-management.git
-cd user-info-management
-Install dependencies:
-bash
-Copy code
-npm install
-Start the development server:
-bash
-Copy code
-npm run dev
-🚀 Usage
-Launch the app and visit localhost:3000.
-Search, filter, and sort through user data with the provided tools.
-Add, edit, and delete user data entries directly from the table.
-Switch between pagination and infinite scroll modes to experience different data-loading options.
-📂 Project Structure
-php
-Copy code
-src/
-├── components/
-│   ├── Table.tsx         # Table component with pagination and infinite scroll
-│   ├── Modal.tsx         # Modal component for adding and editing users
-│   └── SkeletonLoader.tsx # Skeleton loader component for loading states
-├── pages/
-│   └── index.tsx         # Main page containing the table and search/filter controls
-└── public/
-    └── users.json        # Sample data for populating the user table
-🔧 Key Libraries & Tools
-React Icons: For action icons (edit, delete, search).
-TailwindCSS: For consistent, responsive styling.
-TypeScript: For type safety and improved development experience.
-🤝 Contributing
-Contributions are welcome! Feel free to fork the repository and submit a pull request with improvements.
+<p align="center"> <img src="./designImage//Create And Edit Modal.png" alt="Add/Edit User Modal" width="75%"> </p>
